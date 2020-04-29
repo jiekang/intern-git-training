@@ -1,1 +1,1 @@
-Nothing exciting here, for demo purposes only.
+Welcome to today's demo!
